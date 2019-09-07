@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <!--Error Messages-->
+    <string name="no_data_present">Unknown</string>
+    <string name="network_unavailable_message">Network not available!</string>
+    <string name="no_response_from_server">No response from server.</string>
+    <string name="no_plot_synopsis">Plot synopsis not available for this movie.</string>
+    <string name="no_reviews">No reviews are available for this movie.</string>
+    <string name="no_trailers">Trailers are not available for this movie.</string>
+
+    <!--Detail Activity-->
+    <string name="detail_activity_title">Movie Details</string>
+    <string name="detail_add_fav_button_text">Add to Favorites</string>
+    <string name="detail_remove_fav_button_text">Remove from Favorites</string>
+    <string name="detail_trailers_label">Trailers:</string>
+    <string name="detail_reviews_button_text">Reviews</string>
+
+    <!--Toast Messages Informative-->
+    <string name="added_to_fav">Movie added to favorites.</string>
+    <string name="removed_from_fav">Movie deleted from favorites.</string>
+
+    <!--Content Descriptions-->
+    <string name="content_description_movie_poster">Movie poster</string>
+    <string name="content_description_play_trailer">Play trailer</string>
+
+    <!--Main menu-->
+    <string name="main_menu_sortByMostPopular">Sort by most popular</string>
+    <string name="main_menu_sortByTopRated">Sort by top rated</string>
+    <string name="main_menu_showFavorites">Show favorite movies</string>
+
+    <!--Reviews Activity-->
+    <string name="reviews_label">Reviews:</string>
+
+</resources>
