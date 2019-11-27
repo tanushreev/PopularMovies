@@ -11,3 +11,13 @@ An Android app that helps users discover popular and recent movies.
 
 ## Screenshots
 Screen 1
+
+<img src="screenshots/main_activity.png" width="225" height="400">
+
+Screen 2
+
+<img src="screenshots/detail_activity.png" width="225" height="400">
+
+Screen 3
+
+<img src="screenshots/reviews_activity.png" width="225" height="400">
