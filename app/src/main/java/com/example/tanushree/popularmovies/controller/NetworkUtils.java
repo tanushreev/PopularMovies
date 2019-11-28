@@ -3,6 +3,8 @@ package com.example.tanushree.popularmovies.controller;
 import android.net.Uri;
 import android.util.Log;
 
+import com.example.tanushree.popularmovies.BuildConfig;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
@@ -20,7 +22,7 @@ public final class NetworkUtils
 
     private static final String MOVIES_BASE_URL = "https://api.themoviedb.org/3/movie";
 
-    private static final String apiKey = "87f69ef6610bceedf945b05ed28e9293";
+    private static final String apiKey = BuildConfig.API_KEY;
 
     private static final String API_KEY_PARAM = "api_key";
 
