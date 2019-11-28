@@ -2,6 +2,18 @@
 ## Description
 An Android app that helps users discover popular and recent movies.
 
+## Usage
+##### API key note
+This app uses the API from [THEMOVIEDB](https://www.themoviedb.org/).
+
+Create a file named apikey.properties in your root directory.
+
+Add your api keys to that file.
+
+API_KEY="YOUR-API-KEY"
+
+Reference: [Storing Secret Keys in Android](https://guides.codepath.com/android/Storing-Secret-Keys-in-Android#hidden-in-buildconfigs)
+
 ## Technology used
 * Java 8
 * Android 8 (API 26)
